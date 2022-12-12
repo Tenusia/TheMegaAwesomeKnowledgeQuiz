@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
+  m_Name: New Question 8
+  m_EditorClassIdentifier: 
+  question: "Was it possible to change your social rank in society? The mechanics
+    are still unclear to scholars at this time, but it wasn\u2019t unknown for karls
+    to become jarls. Even slaves had some rights. For example, they were still  treated
+    as people and their owners couldn\u2019t kill them on a whim. Freed slaves became
+    freedmen. While having fewer rights compared to karls, freedmen could own land
+    of their own. Grandchildren of freedmen automatically became karls at birth."

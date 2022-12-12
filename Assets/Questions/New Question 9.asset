@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
+  m_Name: New Question 9
+  m_EditorClassIdentifier: 
+  question: 'What was very important for a viking? Despite how popular fiction shows
+    them, Vikings did not go around with wild and unruly hair. Neatness of appearance
+    was a mark of status in Viking society, with karls and jarls alike favoring a
+    variety of hairstyles as shown in surviving pieces of Viking art.
+
+    
+
+    Jarls
+    also liked to show off their wealth, usually with silk clothes imported from
+    abroad and elaborate jewelry. Hygiene went hand-in-hand with neat appearances,
+    and materials such as combs, brushes, and soaps were among the many funerary
+    offerings found in Viking tombs. That last especially shows the importance Vikings
+    placed on personal cleanliness.'
