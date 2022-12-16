@@ -12,9 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 8
   m_EditorClassIdentifier: 
-  question: "Was it possible to change your social rank in society? The mechanics
-    are still unclear to scholars at this time, but it wasn\u2019t unknown for karls
-    to become jarls. Even slaves had some rights. For example, they were still  treated
-    as people and their owners couldn\u2019t kill them on a whim. Freed slaves became
-    freedmen. While having fewer rights compared to karls, freedmen could own land
-    of their own. Grandchildren of freedmen automatically became karls at birth."
+  question: How were slaves treated in Viking society?
+  answers:
+  - Slaves were not seen as human, and had less rights than livestock.
+  - Slaves had some rights and a owner could not kill them on a whim.
+  - Slaves had no rights and could be killed on a whim, but eventually could buy
+    their freedom.
+  - When a slave outlived it's usefullness, they were offered to the gods.
+  correctAnswerIndex: 1

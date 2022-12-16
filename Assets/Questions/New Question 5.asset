@@ -12,6 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 5
   m_EditorClassIdentifier: 
-  question: They were clean, not dirty. The thought of men aboard a boat for weeks
-    on end might conjure up images of filth, but archaeological finds suggest otherwise.
-    Tweezers, razors and combs are among the items to have been found.
+  question: Which fact about Viking personal hygiene is true?
+  answers:
+  - Vikings used to smell so bad, that the Anglo-Saxons used hunting dogs to predict
+    viking raids.
+  - Vikings used to braid and brush each others hair as a way to bond.
+  - Vikings were known for their cleanliness. They used to cary razors, combs etc,
+    and took a bath once a week.
+  - Vikings were reluctant to take a bath, because they believed that enemy blood 
+    brought luck in battle.
+  correctAnswerIndex: 2

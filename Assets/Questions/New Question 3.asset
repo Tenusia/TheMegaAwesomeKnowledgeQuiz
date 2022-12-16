@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 3
   m_EditorClassIdentifier: 
-  question: Who was the last great Viking king, marking the end of the vikings age
-    with his death? Harald Hardrada
+  question: 'Who was the last great Viking king, marking the end of the vikings age
+    with his death? '
+  answers:
+  - Harald Hardrada
+  - Ragnar Lothbrok
+  - Vicky the Viking
+  - Ivar the Boneless
+  correctAnswerIndex: 0

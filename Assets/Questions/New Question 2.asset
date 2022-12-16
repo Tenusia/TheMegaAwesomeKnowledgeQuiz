@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 2
   m_EditorClassIdentifier: 
-  question: "Which day of the week was named after a famous Viking god? The great
-    raven god Odin, otherwise known as Woden, gives us Wednesday (literally, Woden\u2019s
-    Day). Meanwhile, Tuesday and Friday are named after Tyr and Frigg, the god and
-    goddess of war and marriage, respectively. Finally, and possibly most famously,
-    the Norse god of thunder and strength Thor gives us our Thursday."
+  question: Which day of the week was named after a famous Viking god?
+  answers:
+  - Tuesday, comes from the god of war Tyr.
+  - Wednesday, comes from the ravin god Odin, also known as Woden.
+  - Thursday, comes from the god of thunder Thor.
+  - All of the above are correct.
+  correctAnswerIndex: 3

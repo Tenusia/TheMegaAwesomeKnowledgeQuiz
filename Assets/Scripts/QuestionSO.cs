@@ -7,6 +7,8 @@ public class QuestionSO : ScriptableObject
 {
     [TextArea(2,6)] 
     [SerializeField] string question = "Enter new question text here";
+    
+    [TextArea(2,3)]
     [SerializeField] string[] answers = new string[4];
     [SerializeField] int correctAnswerIndex;
 

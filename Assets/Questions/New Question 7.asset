@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 7
   m_EditorClassIdentifier: 
-  question: "What social classes did you have in viking society? At the top were
-    the jarls, who made up the Viking nobility. They owned large amounts of land
-    and livestock and dominated both the Viking government and society. Most Vikings
-    belonged to the karls and were also known as freemen. They owned land and drove
-    most of the daily workforce of Viking society. Finally, at the bottom were thralls
-    \u2013 slaves who did all the menial labor in Viking society."
+  question: 'What social classes did you have in viking society? '
+  answers:
+  - Each viking (except for slaves) was equal in rank.
+  - You had the Karls (nobility), normal man were the Jarls (freeman), and at the
+    bottem you had the Thralls (slaves).
+  - Vikings did not enjoy politics, so rank was solely decided by personal strenght.
+  - You had the Jarls (nobility), normal man were the Karls (freeman), and at the
+    bottem you had the Thralls (slaves).
+  correctAnswerIndex: 3

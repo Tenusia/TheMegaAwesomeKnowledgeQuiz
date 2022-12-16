@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 6
   m_EditorClassIdentifier: 
-  question: What was a popular hobby of vikings? skieing. So important was the pastime
-    to the vikings that they even worshipped a god in its name. Medieval sources
-    have very limited material on the god Ullr, but he's almost always shown on skis
-    carrying a bow. In one text, it is said that Ullr can be called ski-god, bow-god,
-    hunting-god and shield-god.
+  question: What was a popular Viking hobby?
+  answers:
+  - Play darts.
+  - Ski in the mountains.
+  - Have snowball figths outside.
+  - Play bowl with decaptitated heads.
+  correctAnswerIndex: 1

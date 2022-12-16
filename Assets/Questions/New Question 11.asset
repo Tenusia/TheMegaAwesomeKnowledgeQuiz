@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 11
   m_EditorClassIdentifier: 
-  question: Was world-famous "Vicky the vicking" a boy or a girl? Vicky, the series'
-    title character, a boy of about 9 years of age. He is physically frail, timid
-    and has a special fear of wolves, but his brains eventually help him solve any
-    problem with which he is confronted.
+  question: Was world-famous "Vicky the vicking" a boy or a girl?
+  answers:
+  - Vicky is a girl of about 9 years old.
+  - Vicky's gender is not specified.
+  - Vicky is the son of Odin.
+  - Vicky is a boy of about 9 years old.
+  correctAnswerIndex: 3

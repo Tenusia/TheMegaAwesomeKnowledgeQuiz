@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
-  m_Name: New Question 1
+  m_Name: New Question 12
   m_EditorClassIdentifier: 
-  question: Where does the word "Viking" originally come from?
+  question: What is a blood eagle?
   answers:
-  - From the hugely popular Animated cartoon Vicky the Viking.
-  - From the old Norse word "vriknig" meaning warrior.
-  - From the Old Norse word "vik" (bay or creek).
-  - From the Old Norse word "vrizen" meaning to sail a boat.
+  - A special banner and shield sign to show a blood pact was made.
+  - Blood eagle was the pet eagle of Tyr (the god of war).
+  - "A torture method, separating the ribs from the spine, and pulling the bones
+    and skin outward to form a set of \u201Cwings\u201D."
+  - A typical Red kite used for sports and hunting.
   correctAnswerIndex: 2

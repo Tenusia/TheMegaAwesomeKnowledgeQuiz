@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 10
   m_EditorClassIdentifier: 
-  question: "What does a viking helmet look like? Well, we did say we\u2019d break
-    the stereotype with Viking facts. They\u2019re often shown using them, most popularly
-    in the operas mentioned before. Comics, cartoons, and other materials also show
-    Vikings as universally wearing horned helmets.\r\n\r\nIn reality, Viking helmets
-    weren\u2019t any different from other European helmets of the time. They were
-    caps made from iron or steel, featuring a nasal guard to protect the head and
-    nose."
+  question: 'What does a viking helmet look like? '
+  answers:
+  - Iron helmets with ornate wings on the side.
+  - Caps made from iron, similar as other European helmets.
+  - Vikings did not wear helmets and perfered wind in their hair.
+  - Iron helmets with horns on the side.
+  correctAnswerIndex: 1

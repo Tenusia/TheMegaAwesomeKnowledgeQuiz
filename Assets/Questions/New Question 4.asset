@@ -12,6 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2a1fdc360d2f1408dee118d547a0fb, type: 3}
   m_Name: New Question 4
   m_EditorClassIdentifier: 
-  question: What did vikings do with sick kids? Vikings were all about physical strength
-    and were known to abandon sickly children. Abandonment methods included leaving
-    them alone in the wildnerness and throwing them into the sea.
+  question: 'What did vikings do with sickly kids? '
+  answers:
+  - Nurture them back to health and give extra training, to increase survival rate.
+  - Make an offer a (human) sacrifice to Frigg (goddes of Childbirth).
+  - Exchange the kid for an orphan at the Oracles temple.
+  - Abandom them, by leaving them alone in the wilderness or throwing them into the
+    sea.
+  correctAnswerIndex: 3
